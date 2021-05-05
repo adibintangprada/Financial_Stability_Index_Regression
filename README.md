@@ -1,0 +1,2 @@
+# Financial_Stability_Index_Regression
+Financial Stability Index prediction using regression
